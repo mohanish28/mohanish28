@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mohanishkul.28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yIitzJnRFGbz4VI0jN-NA4csxsxKjhHr/view](https://drive.google.com/file/d/1yIitzJnRFGbz4VI0jN-NA4csxsxKjhHr/view)
+- 📄 resume  [https://drive.google.com/file/d/1yIitzJnRFGbz4VI0jN-NA4csxsxKjhHr/view](https://drive.google.com/file/d/1yIitzJnRFGbz4VI0jN-NA4csxsxKjhHr/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
