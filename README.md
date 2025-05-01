@@ -1,38 +1,19 @@
-# Hi, I'm Mohanish Kulkarni 👋
+<h1 align="center">Hi 👋, I'm mohanish kulkarni</h1>
+<h3 align="center">A passionate Machine Learning Developer with a strong interest in building applications that solve real-world problems. I'm currently pursuing my Bachelor of Engineering in Pune and recently completed an ML internship at SAP, where I worked with cutting-edge tools in ML, DL, IoT, and SAP ABAP.</h3>
 
-🎓 A passionate **Machine Learning Developer** with a strong interest in building applications that solve real-world problems. I'm currently pursuing my **Bachelor of Engineering** in Pune and recently completed an ML internship at **SAP**, where I worked with cutting-edge tools in ML, DL, IoT, and SAP ABAP.
+- 🔭 I’m currently working on **innovative AI-based applications.**
 
-## 🚀 About Me
+- 👨‍💻 All of my projects are available at [https://mohanishkulkarni.netlify.app/projects](https://mohanishkulkarni.netlify.app/projects)
 
-- 🔭 I’m currently working on innovative AI-based applications.
-- 🧠 Exploring Deep Learning, Internet of Things, and full-stack web development.
-- 🎯 Focused on combining ML with user-centric applications.
-- 🗣️ Conducted a Java workshop for junior students, promoting real-world coding practices.
-- 💬 Ask me about Python, ML/DL, Java, and building web applications.
+- 📫 How to reach me **mohanishkul.28@gmail.com**
 
-## 🛠️ Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/mohanish-kulkarni-99ab87262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/mohanish-kulkarni-99ab87262" height="30" width="40" /></a>
+<a href="https://discord.gg/984405687142592563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="984405687142592563" height="30" width="40" /></a>
+</p>
 
-**Languages**: Python, Java, C++, JavaScript  
-**Web**: HTML, CSS, React.js  
-**Databases**: MongoDB, Firebase, PostgreSQL  
-**Tools & Platforms**: TensorFlow, Keras, Git, Visual Studio Code  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 🧠 Projects
-
-### 🔹 [Mental Health Chatbot](https://github.com/mohanish28/Mental_Health_Chatbot)
-An AI-powered chatbot that analyzes emotional tone from text using SVM and responds with voice output mimicking a specific individual.
-
-### 🔹 [Resume Maker Web Application](https://github.com/mohanish28/resume_maker)
-A web app that allows users to design professional resumes with real-time editing and customizable templates.
-
-## 📫 Contact Me
-
-- 📧 [mohanishkul.28@gmail.com](mailto:mohanishkul.28@gmail.com)
-- 🌐 [Portfolio](https://mohanishkulkarni.netlify.app/)
-- 💼 [LinkedIn](http://www.linkedin.com/in/mohanish-kulkarni-99ab87262)
-- 🧑‍💻 [GitHub](https://github.com/mohanish28)
-
----
-
-Thank you for visiting my profile! Let's build something impactful together 🚀
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanish28&show_icons=true&locale=en&layout=compact" alt="mohanish28" /></p>
