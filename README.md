@@ -9,6 +9,8 @@
 
 ---
 
+<p align="center"><img src="pixel.svg" alt="Pixel art of a developer coding at night with a city skyline behind" width="100%"/></p>
+
 ## About
 
 Final-year Information Technology engineer (SPPU, Pune). I work on LLM agents, local-first tools and AI security. Currently an AI engineer intern building AI agents, LLM applications and workflow automation.
