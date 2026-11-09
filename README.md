@@ -1,6 +1,4 @@
-<h1 align="center">Mohanish Kulkarni</h1>
-<p align="center"><b>AI engineer and published researcher · Pune, India</b></p>
-<p align="center"><i>I build AI that stays under your control, and I study how to keep it safe.</i></p>
+<p align="center"><img src="banner.svg" alt="Mohanish Kulkarni, AI engineer and published researcher in Pune" width="100%"/></p>
 
 <p align="center">
   <a href="https://www.mohanishkulkarni.in"><img src="https://img.shields.io/badge/Portfolio-mohanishkulkarni.in-0c1228?style=for-the-badge" alt="Portfolio"/></a>
@@ -32,6 +30,19 @@ Final-year Information Technology engineer (SPPU, Pune). I work on LLM agents, l
 | [**Krabby**](https://github.com/mohanish28/Krabby) | Five LLM providers debate and vote to a consensus, with failover and full deliberation traces. | Python, Groq, Ollama |
 | [**ILoveLocal**](https://github.com/mohanish28/ILoveLocal) | 47 PDF, image and document tools that run entirely on your PC. | Desktop |
 | [**Vidhik Mitra**](https://github.com/mohanish28/Vidhik_Mitra) | RAG legal advisor over 1,000+ constitutional documents. | Python, RAG, Flask |
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://github.com/mohanish28/emcp"><img src="assets/emcp.jpg" alt="eMCP" width="100%"/><br/><sub><b>eMCP</b></sub></a></td>
+<td width="33%" align="center"><a href="https://github.com/mohanish28/engram"><img src="assets/engram.jpg" alt="engram" width="100%"/><br/><sub><b>engram</b></sub></a></td>
+<td width="33%" align="center"><a href="https://github.com/mohanish28/The-office"><img src="assets/ai-office.jpg" alt="AI Office" width="100%"/><br/><sub><b>AI Office</b></sub></a></td>
+</tr>
+<tr>
+<td width="33%" align="center"><a href="https://github.com/mohanish28/pacnotes"><img src="assets/pacnotes.jpg" alt="PacNotes" width="100%"/><br/><sub><b>PacNotes</b></sub></a></td>
+<td width="33%" align="center"><a href="https://github.com/mohanish28/Krabby"><img src="assets/krabby.jpg" alt="Krabby" width="100%"/><br/><sub><b>Krabby</b></sub></a></td>
+<td width="33%" align="center"><a href="https://github.com/mohanish28/ILoveLocal"><img src="assets/ilovelocal.jpg" alt="ILoveLocal" width="100%"/><br/><sub><b>ILoveLocal</b></sub></a></td>
+</tr>
+</table>
 
 Short explainer videos for most of these are on the [portfolio](https://www.mohanishkulkarni.in).
 

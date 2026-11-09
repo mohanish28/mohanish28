@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Mohanish Kulkarni, AI engineer and published researcher">
+<defs>
+<radialGradient id="bg" cx="78%" cy="45%" r="75%"><stop offset="0" stop-color="#1a2656"/><stop offset="1" stop-color="#0c1228"/></radialGradient>
+<style>
+.tw{animation:tw 3.2s ease-in-out infinite}.tw2{animation:tw 4.6s ease-in-out infinite -1.4s}.tw3{animation:tw 5.5s ease-in-out infinite -3s}
+@keyframes tw{0%,100%{opacity:.25}50%{opacity:1}}
+.pulse{animation:pl 3.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pl{0%,100%{transform:scale(1)}50%{transform:scale(1.25)}}
+.dash{stroke-dasharray:4 6;animation:dm 12s linear infinite}@keyframes dm{to{stroke-dashoffset:-100}}
+</style>
+</defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<g fill="#dfe6ff">
+<circle class="tw" cx="60" cy="40" r="1.4"/><circle class="tw2" cx="180" cy="270" r="1.2"/><circle class="tw3" cx="330" cy="58" r="1.6"/><circle class="tw" cx="470" cy="285" r="1.2"/><circle class="tw2" cx="560" cy="34" r="1.4"/><circle class="tw3" cx="640" cy="250" r="1.6"/><circle class="tw" cx="720" cy="70" r="1.2"/><circle class="tw2" cx="95" cy="190" r="1.2"/><circle class="tw3" cx="1130" cy="44" r="1.5"/><circle class="tw" cx="1160" cy="270" r="1.3"/><circle class="tw2" cx="250" cy="150" r="1"/><circle class="tw3" cx="1060" cy="300" r="1.2"/>
+</g>
+<g stroke="#8a93b5" stroke-opacity=".45" stroke-width="1.3" fill="none" class="dash">
+<path d="M930 170L820 90M930 170L1050 80M930 170L1010 250M930 170L800 240M930 170L1100 175M820 90L720 140M800 240L720 140"/>
+</g>
+<g>
+<circle cx="930" cy="170" r="22" fill="#f3eee3"/><circle cx="930" cy="170" r="30" fill="none" stroke="#f3eee3" stroke-opacity=".6" stroke-width="2" class="pulse"/>
+<text x="930" y="176" text-anchor="middle" font-family="Georgia,serif" font-size="17" fill="#0c1228">MK</text>
+<circle cx="820" cy="90" r="9" fill="#5ce1e6" class="pulse"/><circle cx="1050" cy="80" r="9" fill="#f42902" class="pulse"/><circle cx="1010" cy="250" r="9" fill="#ccff00" class="pulse"/><circle cx="800" cy="240" r="9" fill="#8ab4ff" class="pulse"/><circle cx="1100" cy="175" r="8" fill="#c4a8ff" class="pulse"/><circle cx="720" cy="140" r="6" fill="#fcd34d" class="pulse"/>
+<g font-family="Arial,sans-serif" font-size="13" fill="#b8bfd9"><text x="835" y="84">agents</text><text x="1064" y="74">security</text><text x="1024" y="268">local-first</text><text x="738" y="262">ML</text><text x="1112" y="198">credentials</text></g>
+</g>
+<text x="60" y="130" font-family="Georgia,'Times New Roman',serif" font-size="68" fill="#f3eee3">Mohanish</text>
+<text x="60" y="200" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="68" fill="#f42902">Kulkarni</text>
+<text x="62" y="248" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#b8bfd9">I build AI that stays under your control,</text>
+<text x="62" y="276" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#b8bfd9">and I study how to keep it safe.</text>
+</svg>
