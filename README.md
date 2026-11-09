@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center"><img src="pixel.svg" alt="Pixel art of a developer coding at night with a city skyline behind" width="100%"/></p>
+<p align="center"><img src="https://www.mohanishkulkarni.in/api/pixel" alt="Pixel art of a developer coding with a city skyline behind, day or night depending on the time in Pune" width="100%"/></p>
 
 ## About
 
